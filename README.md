@@ -8,9 +8,18 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Luizse/Leetcode_Java/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Luizse/Leetcode_Java/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Luizse/Leetcode_Java/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Luizse/Leetcode_Java/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Luizse/Leetcode_Java/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
