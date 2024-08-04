@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Luizse/Leetcode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Luizse/Leetcode_Java/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -13,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Luizse/Leetcode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Luizse/Leetcode_Java/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
