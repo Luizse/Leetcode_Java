@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Luizse/Leetcode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Luizse/Leetcode_Java/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Luizse/Leetcode_Java/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Luizse/Leetcode_Java/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Luizse/Leetcode_Java/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Luizse/Leetcode_Java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
