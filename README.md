@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Luizse/Leetcode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Luizse/Leetcode_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Luizse/Leetcode_Java/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Luizse/Leetcode_Java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Luizse/Leetcode_Java/tree/master/0217-contains-duplicate) |
@@ -47,6 +48,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Luizse/Leetcode_Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Luizse/Leetcode_Java/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
