@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Luizse/Leetcode_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Luizse/Leetcode_Java/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Luizse/Leetcode_Java/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Luizse/Leetcode_Java/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Luizse/Leetcode_Java/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Luizse/Leetcode_Java/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Luizse/Leetcode_Java/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Luizse/Leetcode_Java/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
